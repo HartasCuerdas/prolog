@@ -1,0 +1,234 @@
+{
+  "title": "Prolog",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "10": {
+      "title": "Terms",
+      "id": 5,
+      "ideas": {
+        "2": {
+          "title": "Constants",
+          "id": 2,
+          "attr": {
+            "style": {},
+            "position": [
+              133,
+              -154,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "integers",
+              "id": 10
+            },
+            "2": {
+              "title": "real numbers",
+              "id": 11,
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "atoms",
+              "id": 12,
+              "ideas": {
+                "1": {
+                  "title": "special atoms",
+                  "id": 13,
+                  "ideas": {
+                    "1": {
+                      "title": "[]",
+                      "id": 16
+                    },
+                    "2": {
+                      "title": "!",
+                      "id": 17
+                    },
+                    "3": {
+                      "title": ";",
+                      "id": 18
+                    }
+                  }
+                },
+                "2": {
+                  "title": "+, -, *, etc.",
+                  "id": 14
+                }
+              },
+              "attr": {
+                "position": [
+                  134,
+                  89,
+                  1
+                ],
+                "style": {}
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Compound Terms",
+          "id": 4,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Facts",
+          "id": 22,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "Membership",
+              "id": 35
+            }
+          }
+        },
+        "2.5": {
+          "title": "Variables",
+          "id": 3,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "X",
+              "id": 7
+            },
+            "2": {
+              "title": "Y",
+              "id": 8
+            }
+          }
+        },
+        "3.5": {
+          "title": "Unification",
+          "id": 36
+        }
+      },
+      "attr": {
+        "style": {},
+        "position": [
+          86,
+          66,
+          15
+        ]
+      }
+    },
+    "20": {
+      "title": "Lists",
+      "id": 24,
+      "attr": {
+        "position": [
+          144,
+          311,
+          16
+        ],
+        "style": {}
+      }
+    },
+    "-6": {
+      "title": "Using",
+      "id": 25,
+      "ideas": {
+        "1": {
+          "title": "Consult",
+          "id": 20,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Conjuction",
+          "id": 26,
+          "attr": {
+            "style": {}
+          }
+        },
+        "3": {
+          "title": "Rules",
+          "id": 21,
+          "attr": {
+            "style": {}
+          }
+        },
+        "4": {
+          "title": "Structures",
+          "id": 23,
+          "attr": {
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          110,
+          -75,
+          11
+        ],
+        "style": {}
+      }
+    },
+    "-7": {
+      "title": "Examples",
+      "id": 27,
+      "attr": {
+        "style": {},
+        "position": [
+          254,
+          183,
+          13
+        ]
+      },
+      "ideas": {
+        "2": {
+          "title": "Factorial",
+          "id": 29
+        },
+        "12": {
+          "title": "Population Density",
+          "id": 28,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {}
+        },
+        "13": {
+          "title": "Farmer, Wolf, Goat and Cabbage",
+          "id": 34
+        },
+        "0.5": {
+          "title": "Aritmethic",
+          "id": 30,
+          "attr": {
+            "style": {}
+          }
+        },
+        "0.25": {
+          "title": "Equality and Matching",
+          "id": 33,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 23,
+      "ideaIdTo": 4,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed",
+          "arrow": false
+        }
+      }
+    }
+  ]
+}
